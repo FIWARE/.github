@@ -18,9 +18,9 @@ Welcome to FIWARE on GitHub</h1>
   
  <h3>Code repositories for FIWARE software development</h3>
   <ul>
-      <li>The <a href="https://github.com/FIWARE/Catalogue/">FIWARE Catalogue</a> of open source software components</li>
-      <li>Training Materials for both <a href="https://github.com/FIWARE/tutorials.NGSI-v2">NGSI-v2</a> and <a href="https://github.com/FIWARE/tutorials.NGSI-LD">NGSI-LD</a></li>
-      <li>A collection of useful <a href="https://github.com/FIWARE/Operations/">FIWARE Operations</a> repositories such as Helm-Charts and reference architectures< </li>
+      <li>The <a href="https://github.com/FIWARE/Catalogue/">FIWARE Catalogue</a> of open source software components.</li>
+      <li>Training Materials for both <a href="https://github.com/FIWARE/tutorials.NGSI-v2">NGSI-v2</a> and <a href="https://github.com/FIWARE/tutorials.NGSI-LD">NGSI-LD</a>.</li>
+      <li>A collection of useful <a href="https://github.com/FIWARE/Operations/">FIWARE Operations</a> repositories such as Helm-Charts and reference architectures.</li>
       <li>.. and lots links to other FIWARE materials created externally - <a href="https://github.com/FIWARE/Catalogue/">Awesome FIWARE</a></li>
     </ul>
  <p>
