@@ -10,7 +10,7 @@ Welcome to FIWARE on GitHub</h1>
   </p>
   <p>
    <b>FIWARE</b> components use <b>NGSI</b> as a mechanism to ensure interoperability in Smart Systems. The <b>NGSI</b> standard itself continues 
-   to evolve, initially matching  <a href="http://fiware.github.io/specifications/ngsiv2/stable/">NGSI-v2 specifications</a> (JSON), now also 
+   to evolve, initially matching the <a href="http://fiware.github.io/specifications/ngsiv2/stable/">NGSI-v2 specifications</a> (JSON), now also 
    incorporating Linked Data concepts aligning with the <a href="https://www.etsi.org/deliver/etsi_gs/CIM/001_099/009/01.06.01_60/gs_CIM009v010601p.pdf">
    ETSI NGSI-LD standard</a> (JSON + JSON-LD) for use in broader data spaces and <i>System-of-Systems</i> development.
   </p>
