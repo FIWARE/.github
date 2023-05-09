@@ -41,3 +41,6 @@ Welcome to FIWARE on GitHub</h1>
   &nbsp;
   <a href="https://www.fiware.org/community/webinars/">Tech Webinars</a>
 </p>
+
+<a href="https://www.fiware.org/global-summit/"><img src="https://fiware.github.io//catalogue/img/Summit23.png" width="240" height="70"/></a>
+
