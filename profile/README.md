@@ -42,8 +42,7 @@ Welcome to FIWARE on GitHub</h1>
   <a href="https://www.fiware.org/community/webinars/">Tech Webinars</a>
 </p>
 
-<p align="left">
- <a href="https://www.fiware.org/global-summit/"><img src="https://fiware.github.io//catalogue/img/Summit23.png" width="240" height="70" /></a>&nbsp;
- <a href="https://www.eventbrite.com/e/fiware-on-site-training-tickets-591474775977"><img src="https://fiware.github.io//catalogue/img/Training23.png" width="240" height="70" /></a>
-</p>
+| <a href="https://www.fiware.org/global-summit/"><img src="https://fiware.github.io//catalogue/img/Summit23.png" width="240" height="70" /></a> | <a href="https://www.eventbrite.com/e/fiware-on-site-training-tickets-591474775977"><img src="https://fiware.github.io//catalogue/img/Training23.png" width="240" height="70" /></a> |
+| --- | --- |
+
 
