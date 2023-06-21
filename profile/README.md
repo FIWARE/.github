@@ -1,7 +1,10 @@
 
 <h1>
-<img align="right" width="200" height="120" src="https://www.fiware.org/wp-content/uploads/Thumb_FIWARE.png"/>
-Welcome to FIWARE on GitHub</h1>
+  <a href="https://www.fiware.org">
+    <img align="right" width="200" height="120" src="https://www.fiware.org/wp-content/uploads/Thumb_FIWARE.png"/>
+  </a>
+  Welcome to FIWARE on GitHub
+</h1>
 
   <p>
    The <b>FIWARE</b> <i>Next Generation Service Interface</i> (<b>NGSI</b>) is an open standard for context data management.  The main and only mandatory 
