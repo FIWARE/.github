@@ -22,7 +22,7 @@
  <h3>Code repositories for FIWARE software development</h3>
   <ul>
       <li>The <a href="https://github.com/FIWARE/Catalogue/">FIWARE Catalogue</a> of open source software components.</li>
-      <li>Training Materials for both:<br>
+      <li>Training Materials for both NGSI APIs:<br>
         &#8226; <b>  
           <a href="https://github.com/FIWARE/tutorials.NGSI-v2">
             NGSI-v2
