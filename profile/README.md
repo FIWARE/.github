@@ -22,10 +22,18 @@
  <h3>Code repositories for FIWARE software development</h3>
   <ul>
       <li>The <a href="https://github.com/FIWARE/Catalogue/">FIWARE Catalogue</a> of open source software components.</li>
-      <li>Training Materials for both <a href="https://github.com/FIWARE/tutorials.NGSI-v2">NGSI-v2</a> and <a href="https://github.com/FIWARE/tutorials.NGSI-LD">NGSI-LD</a>.</li>
+      <li>Training Materials for both:<br>
+        &#8226; <b>  
+          <a href="https://github.com/FIWARE/tutorials.NGSI-v2">
+            NGSI-v2
+          </a></b> for JSON based interoperability  in individual Smart Systems
+        <br>
+        &#8226; <b><a href="https://github.com/FIWARE/tutorials.NGSI-LD">NGSI-LD</a></b> for JSON-LD (Linked Data) based interoperability for Federations and Data Spaces
+      </li>
       <li>A collection of useful <a href="https://github.com/FIWARE/Operations/">FIWARE Operations</a> repositories such as Helm-Charts and reference architectures.</li>
       <li>.. and lots of links to other FIWARE materials created externally - <a href="https://github.com/FIWARE/Awesome/">Awesome FIWARE</a></li>
     </ul>
+
  <p>
     As an open standard <i>free for all forever</i>, all these materials found on GitHub are available under appropriate open source licenses.
   </p>
