@@ -42,17 +42,17 @@
 <p align="center">
   <a href="https://www.fiware.org/catalogue/">Website</a>
   &nbsp;
-  <a href="https://discord.com/channels/1116014721154433064/">Discord Channel</a>
-  &nbsp;
-  <a href="https://github.com/FIWARE">GitHub</a>
-  &nbsp;
   <a href="https://www.fiware.org/smart-data-models/">Data Models</a>
   &nbsp;
   <a href="https://fiware-tutorials.readthedocs.io/en/latest/">NGSI-v2</a>
   &nbsp;
   <a href="https://ngsi-ld-tutorials.readthedocs.io/en/latest/">NGSI-LD</a>
-  &nbsp;
+  &nbsp; <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <a href="https://github.com/FIWARE">GitHub</a>
+  &nbsp; <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
   <a href="https://www.fiware.org/community/webinars/">Tech Webinars</a>
+  &nbsp; <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+  <a href="https://discord.com/channels/1116014721154433064/">Discord Channel</a>
 </p>
 
 <!---
