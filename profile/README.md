@@ -42,6 +42,8 @@
 <p align="center">
   <a href="https://www.fiware.org/catalogue/">Website</a>
   &nbsp;
+  <a href="https://discord.com/channels/1116014721154433064/">Discord Channel</a>
+  &nbsp;
   <a href="https://github.com/FIWARE">GitHub</a>
   &nbsp;
   <a href="https://www.fiware.org/smart-data-models/">Data Models</a>
