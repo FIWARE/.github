@@ -52,7 +52,7 @@
   &nbsp; <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
   <a href="https://www.fiware.org/community/webinars/">Tech Webinars</a>
   &nbsp; <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
-  <a href="https://discord.com/channels/1116014721154433064/">Discord Channel</a>
+  <a href="https://discord.gg/ZWvTUfepHr">Discord Channel</a>
 </p>
 
 | <a href="https://www.fiware.org/global-summit/"><img src="https://fiware.github.io//catalogue/img/Summit24.png" width="240" height="70" /></a> |
