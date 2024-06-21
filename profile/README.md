@@ -38,7 +38,7 @@
     As an open standard <i>free for all forever</i>, all these materials found on GitHub are available under appropriate open source licenses.
   </p>
 
-
+<hr/>
 <p align="center">
   <a href="https://www.fiware.org/catalogue/">Website</a>
   &nbsp;
@@ -56,7 +56,8 @@
 </p>
 
 <div align="center">
-
+<hr/>
+  
 | <a href="https://www.fiware.org/global-summit/"><img src="https://fiware.github.io//catalogue/img/Summit24.png" width="240" height="70" /></a> | <a href="https://www.eventbrite.de/e/fiware-tech-training-naples-tickets-920143322447"><img src="https://fiware.github.io//catalogue/img/Training24.png" width="240" height="70" /></a> |
 | --- | --- |
 
