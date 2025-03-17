@@ -58,6 +58,10 @@
 <div align="center">
 <hr/>
 
+<div align="center">
+<a href="https://www.fiware.org/global-summit/"><img src="https://fiware.github.io//catalogue/img/Summit25.png" width="240" height="70" /></a>
+</div>
+
 <!--  
 | <a href="https://www.fiware.org/global-summit/"><img src="https://fiware.github.io//catalogue/img/Summit24.png" width="240" height="70" /></a> | <a href="https://www.eventbrite.de/e/fiware-tech-training-naples-tickets-920143322447"><img src="https://fiware.github.io//catalogue/img/Training24.png" width="240" height="70" /></a> |
 | --- | --- |
